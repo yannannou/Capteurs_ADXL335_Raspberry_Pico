@@ -1,4 +1,4 @@
-
+# Titre : test lire les tensions d'un accelerometre analogique
 Auteur : Skorupka yann
 Date : Janvier 2022
 Microcontroleur : Raspberry Pi Pico
